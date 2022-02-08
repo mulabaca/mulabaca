@@ -1,4 +1,4 @@
-Helllo! my name is Reyes, and I'm new to the coding scene. I find all this stuff cool and would love to start doing cool stuff. 
+Helllo! my name is Reyes, and I'm new to the coding scene. I find all this stuff cool and would love to start doing actuall content. 
 I've had github for two years, but I made the account to download a beatsaber mod. It's been unactive since then, as I was too intimidated by code I couldn't understand. 
 
 I love videogames and look forward to new tech like, future vr headsets and curious about brain interfacing.
