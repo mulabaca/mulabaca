@@ -5,7 +5,11 @@ Helllo! my name is Reyes, yes I'm looking for a job in this field. Here is a vew
 - Growth-Bullet-Hell: This is a unity game I started with a friend for a game jam, but we got busy, so we never submitted. I sometimes add to the project, but for now it's just shelved.
 
 - JameGamUmU: This is a godot game made for a 6 day game jam I made with friends.
-   
+
+- CMPT-370-Project: Is a project I worked on with a classmate for Introduction to Computer Graphics course at MacEwan.
+  
+Other repositories that are private include a discord bot, and other university projects.
+
 You can reach me at my linked in: https://www.linkedin.com/in/reyes-palomera
 
 <!---
