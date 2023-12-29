@@ -1,13 +1,12 @@
-Helllo! my name is Reyes, and I'm new to the coding scene. I find all this stuff cool and would love to start doing actuall content. 
-I've had github for two years, but I made the account to download a beatsaber mod. It's been unactive since then, as I was too intimidated by code I couldn't understand. 
+Helllo! my name is Reyes, yes I'm looking for a job in this field. Here is a vew of my Github Repository:
 
-I love videogames and look forward to new tech like, future vr headsets and curious about brain interfacing.
+- BoomBox_BoomMapper: This is a fork with small changes. At first, I forked it to fix an issue with bpm changes.
 
-I'm currently learning Java and C. I've learned quite a bit of python, and feel comfortable learning new lenguages. 
+- Growth-Bullet-Hell: This is a unity game I started with a friend for a game jam, but we got busy, so we never submitted. I sometimes add to the project, but for now it's just shelved.
 
-I hope to eventually colaborate with people on cool stuff like mods, games or even get a job. The last one seems far as my repository is empty at the moment. 
-
-You can reach me at my discord Reyes#5495 for now.
+- JameGamUmU: This is a godot game made for a 6 day game jam I made with friends.
+   
+You can reach me at my linked in: https://www.linkedin.com/in/reyes-palomera
 
 <!---
 mulabaca/mulabaca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
